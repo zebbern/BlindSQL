@@ -39,3 +39,11 @@ python blindsql.py -u https://example.com/vulnerable.php?id= -t 10 -v
 
 ![image](https://github.com/user-attachments/assets/747d8592-0fba-4da7-b6ca-b395eccb798d)
 
+## Contributing
+
+Contributions are welcome! Please open issues or submit pull requests for improvements.
+
+> [!WARNING]  
+> These is intended for educational and ethical hacking purposes only. It should only be used to test systems you own or have explicit permission to test. Unauthorized use of third-party websites or systems without consent is illegal and unethical.
+
+
