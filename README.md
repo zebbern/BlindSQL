@@ -1,5 +1,7 @@
 <div align="center">
 
+## Fast, and accurate blind SQL injection scanner! 
+
 ![prevent-sql-exploit-icon](https://github.com/user-attachments/assets/1a346eb4-63c9-465c-b4a5-235a69bdfaa5)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -7,7 +9,6 @@
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 
-### Fast, and accurate blind SQL injection scanner! 
 #### Automate the detection of blind SQL injection vulnerabilities with ease!
  **[Features](#features)**  | **[Installation](#installation)**  | **[Tool Usage](#usage)**  | **[Tool-Preview](#tool-preview)**
 
