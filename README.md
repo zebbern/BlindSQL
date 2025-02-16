@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-green)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
-### Fast, and accurate blind SQL injection scanner! Automate the detection of blind SQL injection vulnerabilities!
+### Fast, and accurate blind SQL injection scanner! Automate the detection of blind SQL injection vulnerabilities with ease!
 - **[Features](#features)** 
 - **[Installation](#installation)** 
 - **[Tool Usage](#usage)**
